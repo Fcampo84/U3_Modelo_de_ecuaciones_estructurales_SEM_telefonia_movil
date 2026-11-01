@@ -1,0 +1,91 @@
+seccion;cifra;calculado;informe;decimales;coincide
+Datos;Observaciones;250.0;250.0;0;True
+Datos;Asimetría mínima;-1.083404367936415;-1.08;2;True
+Datos;Asimetría máxima;0.5515062261364861;0.55;2;True
+CFA;χ² CFA;448.3845520751659;448.4;1;True
+CFA;gl CFA;179.0;179.0;0;True
+CFA;CFI CFA;0.8801513794183337;0.88;3;True
+CFA;TLI CFA;0.859395473060615;0.859;3;True
+CFA;RMSEA CFA;0.07774279578201033;0.078;3;True
+CFA;SRMR CFA;0.05645261542039747;0.056;3;True
+CFA;AIC CFA;100.41292358339868;100.4;1;True
+CFA;Carga CUSL2;0.12189496581778488;0.12;2;True
+CFA;p CUSL2;0.07879105049147928;0.079;3;True
+CFA;α Imagen corporativa;0.7144468020430874;0.71;2;True
+CFA;CR Imagen corporativa;0.7294099460048178;0.73;2;True
+CFA;AVE Imagen corporativa;0.35534410542446226;0.36;2;True
+CFA;α Expectativas;0.4325968438072077;0.43;2;True
+CFA;CR Expectativas;0.47042739734387407;0.47;2;True
+CFA;AVE Expectativas;0.23044694067819327;0.23;2;True
+CFA;α Calidad percibida;0.8724063714298881;0.87;2;True
+CFA;CR Calidad percibida;0.8763580342346716;0.88;2;True
+CFA;AVE Calidad percibida;0.5052098071140819;0.51;2;True
+CFA;α Satisfacción;0.7701131082822747;0.77;2;True
+CFA;CR Satisfacción;0.7786154852253714;0.78;2;True
+CFA;AVE Satisfacción;0.5400927022723182;0.54;2;True
+CFA;α Lealtad;0.44171719838260837;0.44;2;True
+CFA;CR Lealtad;0.5852243029477844;0.59;2;True
+CFA;AVE Lealtad;0.3857073360271104;0.39;2;True
+CFA;Carga mín. Imagen corporativa;0.45065568266255857;0.45;2;True
+CFA;Carga máx. Imagen corporativa;0.67382267508111;0.67;2;True
+CFA;Carga mín. Expectativas;0.4137527958025885;0.41;2;True
+CFA;Carga máx. Expectativas;0.5380287572929109;0.54;2;True
+CFA;Carga mín. Calidad percibida;0.5653299567840685;0.57;2;True
+CFA;Carga máx. Calidad percibida;0.7760695607039809;0.78;2;True
+CFA;Carga mín. Satisfacción;0.7057167259860616;0.71;2;True
+CFA;Carga máx. Satisfacción;0.7763796130205904;0.78;2;True
+CFA;Carga mín. Lealtad;0.12189496581778488;0.12;2;True
+CFA;Carga máx. Lealtad;0.8703978631763508;0.87;2;True
+Estructural;chi2 M1 contraste;459.5175253778354;459.5;1;True
+Estructural;gl M1 contraste;182.0;182.0;0;True
+Estructural;CFI M1 contraste;0.8765330367032678;0.877;3;True
+Estructural;TLI M1 contraste;0.8575381192730013;0.858;3;True
+Estructural;RMSEA M1 contraste;0.07825459346026188;0.078;3;True
+Estructural;SRMR M1 contraste;0.05712477312095385;0.057;3;True
+Estructural;AIC M1 contraste;94.32385979697732;94.3;1;True
+Estructural;chi2 M2 final;468.48672612602815;468.5;1;True
+Estructural;gl M2 final;184.0;184.0;0;True
+Estructural;CFI M2 final;0.8734324539497528;0.873;3;True
+Estructural;TLI M2 final;0.8555479093991745;0.856;3;True
+Estructural;RMSEA M2 final;0.07879931073115311;0.079;3;True
+Estructural;SRMR M2 final;0.05779757115267501;0.058;3;True
+Estructural;AIC M2 final;90.25210619099178;90.3;1;True
+Estructural;β M1 Imagen → Satisfacción;2.041135639155674;2.04;2;True
+Estructural;β M1 Imagen → Lealtad;-3.2014959511924204;-3.2;2;True
+Estructural;β M1 Satisfacción → Lealtad;4.011009341997807;4.01;2;True
+Hipótesis;b H1;0.6479498617777851;0.65;2;True
+Hipótesis;EE H1;0.10385107294479255;0.1;2;True
+Hipótesis;β H1;0.8318032916027646;0.83;2;True
+Hipótesis;b H2;0.7222246139342164;0.72;2;True
+Hipótesis;EE H2;0.18293006807532983;0.18;2;True
+Hipótesis;β H2;0.7330816122812858;0.73;2;True
+Hipótesis;b H3;0.3153097135665062;0.32;2;True
+Hipótesis;EE H3;0.24203469667866329;0.24;2;True
+Hipótesis;β H3;0.24930911547420437;0.25;2;True
+Hipótesis;b H4;0.7422910906521591;0.74;2;True
+Hipótesis;EE H4;0.06717293397197734;0.07;2;True
+Hipótesis;β H4;0.9260771143809802;0.93;2;True
+Hipótesis;b H5;1.4882550665861765;1.49;2;True
+Hipótesis;EE H5;0.20134044081059918;0.2;2;True
+Hipótesis;β H5;0.7947926116179893;0.79;2;True
+Hipótesis;p H3;0.19266151928149466;0.193;3;True
+Mediación;Indirecto H6;0.7360392482985106;0.74;2;True
+Mediación;IC inf H6;0.594102499869807;0.59;2;True
+Mediación;IC sup H6;0.8526181061555201;0.85;2;True
+Mediación;Indirecto Imagen → Lealtad;0.692213819163958;0.69;2;True
+Mediación;IC inf Imagen → Lealtad;0.5423953843218811;0.54;2;True
+Mediación;IC sup Imagen → Lealtad;0.8167393649399876;0.82;2;True
+Estructural;R² Expectativas;0.6918967159211938;0.69;2;True
+Estructural;R² Calidad percibida;0.9036109596628416;0.9;2;True
+Estructural;R² Satisfacción;0.8576188217802034;0.86;2;True
+Estructural;R² Lealtad;0.6316952954825439;0.63;2;True
+Validez;Pares HTMT > 0,90;4.0;4.0;0;True
+Validez;HTMT Satisfacción-Lealtad;0.9566456745914532;0.96;2;True
+Validez;HTMT Calidad-Satisfacción;0.9536360119334799;0.95;2;True
+Validez;Correlación Calidad-Satisfacción;0.9590973457172416;0.96;2;True
+Validez;Raíz AVE Calidad;0.7107811246186001;0.71;2;True
+Validez;Raíz AVE Satisfacción;0.7349099960351051;0.73;2;True
+Validez;Pares que violan Fornell-Larcker;10.0;10.0;0;True
+Validez;Q² mínimo;0.0038541507734297653;0.004;3;True
+Validez;Q² máximo;0.4713781566566223;0.47;2;True
+Validez;Indicadores con SEM <= regresión;6.0;6.0;0;True
