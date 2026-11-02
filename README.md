@@ -1,6 +1,8 @@
 # Satisfacción y lealtad del cliente en telefonía móvil: modelo SEM (ECSI)
 
-Inferencia Avanzada y Análisis Multivariado - Unidad 3. Autor: Francisco Mario Campo Torne.
+Inferencia Avanzada y Análisis Multivariado - Unidad 3. Politécnico Grancolombiano.
+
+**Autores:** Ana Milena Uribe, Alejandro Quintero, Francisco Mario Campo y Pablo Stevens Casilimas.
 
 Modelo de ecuaciones estructurales basado en covarianzas, estimado por máxima verosimilitud,
 sobre datos reales del índice europeo de satisfacción del cliente (ECSI) para telefonía móvil:
@@ -20,6 +22,7 @@ jupyter notebook SEM_ECSI_Satisfaccion_Lealtad.ipynb
 
 Kernel > Restart & Run All. Tiempo aproximado: 1 a 4 minutos. Semilla fija: 2026.
 GitHub muestra el cuaderno ya ejecutado, con tablas y figuras, sin instalar nada.
+El archivo `SEM_ECSI_Satisfaccion_Lealtad.html` permite consultarlo en cualquier navegador.
 
 ## Fases del cuaderno
 
